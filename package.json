@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/plato2/foundry/app/scandipwa-jest"
+    "url": "git+https://github.com/Plato-solutions/scandipwa-jest.git"
   },
   "type": "module",
   "description": "Plugin to make ScandiPWA based project compatible with Jest testing",
