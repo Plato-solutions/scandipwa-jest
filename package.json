@@ -1,0 +1,27 @@
+{
+  "name": "scandipwa-jest",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/plato2/foundry/app/scandipwa-jest"
+  },
+  "type": "module",
+  "description": "Plugin to make ScandiPWA based project compatible with Jest testing",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ScandiPWA",
+    "Jest",
+    "plugin",
+    "Plato",
+    "Platosolutions",
+    "Foundry",
+    "testing",
+    "RTL"
+  ],
+  "author": "platosolutions.io",
+  "license": "ISC"
+}
