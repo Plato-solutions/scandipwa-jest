@@ -8,7 +8,9 @@
   "type": "module",
   "description": "Plugin to make ScandiPWA based project compatible with Jest testing",
   "main": "index.js",
-  "bin": "index.js",
+  "bin": {
+    "scandipwa-jest": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
